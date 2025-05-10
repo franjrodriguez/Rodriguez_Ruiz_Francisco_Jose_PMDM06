@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/crash_sad"
+        android:contentDescription="@string/crash_triste" />
+
+    <TextView
+        android:id="@+id/txt_mensaje_snackbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/ouch_clave_incorrecta"
+        android:textColor="@color/crash_text_primary"
+        android:fontFamily="@font/zoinks"
+        android:textSize="16sp" />
+
+</LinearLayout>

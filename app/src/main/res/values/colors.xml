@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="crash_primary">#FFC107</color> <!-- Naranja vibrante -->
+    <color name="crash_primary_dark">#E65100</color>
+    <color name="crash_accent">#FFC107</color> <!-- Amarillo -->
+    <color name="crash_background">#8B6F47</color> <!-- Marrón tribal -->
+    <color name="crash_text_primary">#FFFFFF</color>
+    <color name="crash_text_secondary">#FFE600</color>
+    <color name="crash_text_input">#000000</color>
+</resources>

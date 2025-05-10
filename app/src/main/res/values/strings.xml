@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GincaniCoot</string>
+    <string name="titulo">Titulo</string>
+    <string name="clave_secreta">clave secreta</string>
+    <string name="enviar_codigo">Enviar codigo</string>
+    <string name="error_mark_location">No se han podido marcar las localizaciones</string>
+    <string name="googlemaps_connected">Conexion con Google Maps completada!</string>
+    <string name="answer_invalid">Va a ser que NO. Intenta de nuevo</string>
+    <string name="completed">Este reto ha sido completado</string>
+    <string name="error_location_user">Permiso de ubicación denegado. No puedo acceder a su ubicación.</string>
+    <string name="toggle_on_permission">Por favor, habilita los permisos de ubicacion</string>
+    <string name="error_getting_user_position">Error al obtener la ubicacion del jugador (usuario)</string>
+    <string name="location_is_null">Ubicación sigue siendo null</string>
+    <string name="error_location_request_activation">No se pudo obtener la ubicación. Asegúrate de que la ubicación está activada.</string>
+    <string name="chrash_is_here">¡Aquí está Crash!</string>
+    <string name="location_gamer_off">Modo Ninja…Ocultandote!</string>
+    <string name="location_gamer_on">Tu posicion esta visible ahora!!</string>
+    <string name="location_gamer_not_found">Ubicacion del jugador no disponible</string>
+    <string name="gamer_location_onoff">Muestra oculta localizacion jugador</string>
+    <string name="veriry_answer">Comprobar Respuesta</string>
+    <string name="enter_key">Introduce la clave</string>
+    <string name="description">Descripción del reto</string>
+    <string name="reto_title">Título del reto</string>
+    <string name="a_divertirse">A divertirse !!!</string>
+    <string name="location_not_found">Ubicacion del jugador no disponible</string>
+    <string name="challenge_image">Imagen Personaje</string>
+
+    <string name="crash_triste">Crash triste</string>
+    <string name="ouch_clave_incorrecta">¡OUCH! CLAVE INCORRECTA</string>
+    <string name="crash_feliz">Crash feliz</string>
+    <string name="woah_clave_correcta">¡WOAH! ¡CLAVE CORRECTA!</string>
+    <string name="gincanicoot">GincaniCoot</string>
+    <string name="retos_resueltos">" Retos Resueltos"</string>
+</resources>

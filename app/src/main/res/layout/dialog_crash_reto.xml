@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog_wood"
+    android:padding="24dp">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/challenge_image"
+        android:contentDescription="@string/challenge_image"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/reto_title"
+        android:textAppearance="@style/CrashTextAppearance"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="8dp" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/description"
+        android:textAppearance="@style/CrashTextAppearance"
+        android:paddingBottom="16dp" />
+
+    <EditText
+        android:id="@+id/input_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_key"
+        android:background="@drawable/bg_input"
+        android:textColor="@color/crash_text_input"
+        android:textColorHint="@color/crash_text_secondary"
+        android:fontFamily="@font/zoinks"
+        android:padding="10dp"/>
+
+    <Button
+        android:id="@+id/button_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/veriry_answer"
+        android:enabled="false"
+        style="@style/CrashButton"
+        app:layout_constraintTop_toBottomOf="@id/input_code"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
+
+

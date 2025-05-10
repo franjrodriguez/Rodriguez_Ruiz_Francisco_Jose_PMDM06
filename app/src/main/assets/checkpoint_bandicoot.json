@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Isla Wumpa - Alhambra de Granada",
+    "latitude": 37.176077,
+    "longitude": -3.588611,
+    "challengeTitle": "Asalto al Palacio Nazarí",
+    "challengeDescription": "Dentro de la Alhambra, en el Patio de los Leones, ¿qué animal esculpido sostiene la fuente?",
+    "challengeAnswer": "leones"
+  },
+  {
+    "id": 2,
+    "name": "Templo de Cortex - Mezquita de Córdoba",
+    "latitude": 37.878871,
+    "longitude": -4.779386,
+    "challengeTitle": "Eco entre columnas",
+    "challengeDescription": "En la Mezquita, ¿qué tipo de columnas forman sus arcos rojiblancos?",
+    "challengeAnswer": "marmol"
+  },
+  {
+    "id": 3,
+    "name": "Laboratorio N. Brio - Plaza de España, Sevilla",
+    "latitude": 37.377219,
+    "longitude": -5.986944,
+    "challengeTitle": "La Carrera de Barcas",
+    "challengeDescription": "En la Plaza de España, ¿qué elemento cruza su canal principal?",
+    "challengeAnswer": "puentes"
+  },
+  {
+    "id": 4,
+    "name": "Ruinas Aku Aku - Alcazaba de Málaga",
+    "latitude": 36.721261,
+    "longitude": -4.416009,
+    "challengeTitle": "Defiende la Fortaleza",
+    "challengeDescription": "¿Qué estructura defensiva conecta la Alcazaba con el Castillo de Gibralfaro?",
+    "challengeAnswer": "coracha"
+  },
+  {
+    "id": 5,
+    "name": "Jungla de N. Gin - Caminito del Rey",
+    "latitude": 36.917085,
+    "longitude": -4.768084,
+    "challengeTitle": "Vertigo Extremo",
+    "challengeDescription": "¿Sobre qué tipo de formación geológica discurre el Caminito del Rey?",
+    "challengeAnswer": "desfiladero"
+  },
+  {
+    "id": 6,
+    "name": "Fortaleza Tiny Tiger - Sierra Nevada",
+    "latitude": 37.085181,
+    "longitude": -3.391439,
+    "challengeTitle": "Ascenso Gélido",
+    "challengeDescription": "¿Cuál es el nombre del pico más alto de Sierra Nevada?",
+    "challengeAnswer": "mulhacen"
+  },
+  {
+    "id": 7,
+    "name": "Refugio Ripper Roo - Cádiz, Playa de La Caleta",
+    "latitude": 36.533054,
+    "longitude": -6.304279,
+    "challengeTitle": "Náufragos en la Bahía",
+    "challengeDescription": "¿Qué dos castillos custodian la Playa de la Caleta?",
+    "challengeAnswer": "san sebastian y santa catalina"
+  },
+  {
+    "id": 8,
+    "name": "Cuevas de Koala Kong - Almería, Desierto de Tabernas",
+    "latitude": 37.027713,
+    "longitude": -2.441003,
+    "challengeTitle": "Duelos del Salvaje Oeste",
+    "challengeDescription": "¿Qué famoso género cinematográfico se grabó en el desierto de Tabernas?",
+    "challengeAnswer": "western"
+  },
+  {
+    "id": 9,
+    "name": "Isla Papu Papu - Ronda, Puente Nuevo",
+    "latitude": 36.740012,
+    "longitude": -5.167564,
+    "challengeTitle": "El Salto del Bandicoot",
+    "challengeDescription": "¿Qué desfiladero atraviesa el Puente Nuevo en Ronda?",
+    "challengeAnswer": "tajo"
+  },
+  {
+    "id": 10,
+    "name": "Templo Komodo Bros - Jaén, Castillo de Santa Catalina",
+    "latitude": 37.774898,
+    "longitude": -3.796308,
+    "challengeTitle": "La última fortaleza",
+    "challengeDescription": "¿Qué instrumento bélico se exhibe aún en el castillo de Santa Catalina?",
+    "challengeAnswer": "catapulta"
+  },
+  {
+    "id": 11,
+    "name": "Cañón de Dingodile - Cueva de Nerja",
+    "latitude": 36.751847,
+    "longitude": -3.872056,
+    "challengeTitle": "Ecos del Abismo",
+    "challengeDescription": "¿Qué tipo de arte prehistórico se puede encontrar en la Cueva de Nerja?",
+    "challengeAnswer": "pinturas rupestres"
+  },
+  {
+    "id": 12,
+    "name": "Mina Nitros Oxide - Riotinto, Minas de Huelva",
+    "latitude": 37.696238,
+    "longitude": -6.592089,
+    "challengeTitle": "Ríos de Fuego",
+    "challengeDescription": "¿Qué color característico tiene el río Tinto debido a los minerales?",
+    "challengeAnswer": "rojo"
+  },
+  {
+    "id": 13,
+    "name": "Volcán Uka Uka - Cabo de Gata",
+    "latitude": 36.758087,
+    "longitude": -2.120334,
+    "challengeTitle": "Furia Submarina",
+    "challengeDescription": "¿Qué tipo de formación volcánica caracteriza el paisaje del Cabo de Gata?",
+    "challengeAnswer": "coladas"
+  },
+  {
+    "id": 14,
+    "name": "Bahía del Doctor N. Tropy - Puerto de Málaga",
+    "latitude": 36.710556,
+    "longitude": -4.414167,
+    "challengeTitle": "Tiempo y Mareas",
+    "challengeDescription": "¿Qué famoso faro se conoce popularmente como 'La Farola'?",
+    "challengeAnswer": "la farola de malaga"
+  },
+  {
+    "id": 15,
+    "name": "Bosque Polar - Parque Natural de los Alcornocales",
+    "latitude": 36.476111,
+    "longitude": -5.589722,
+    "challengeTitle": "Entre Nieblas y Alcornoques",
+    "challengeDescription": "¿Qué material se extrae de los alcornoques del parque?",
+    "challengeAnswer": "corcho"
+  }
+]
