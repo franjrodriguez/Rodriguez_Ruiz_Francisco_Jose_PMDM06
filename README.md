@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./screenshots/banner_project.png" alt="Gincanicoot Banner" width="85%">
+</p>
 # 🌀 Gincanicoot
 
 **Gincanicoot** es una aplicación Android desarrollada en Java que combina geolocalización, gamificación y estilo visual inspirado en *Crash Bandicoot*.  
